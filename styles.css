@@ -1,0 +1,92 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background:linear-gradient( #002973,  #002973, #ffd200, #ffd200);
+    color: white;
+    text-decoration: solid black;
+    
+
+}
+
+
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: 90px;
+  width: 100%;
+  justify-content: center;
+}
+
+ @font-face {
+  font-family: 'Bitter';
+  src: url(Bitter-VariableFont_wght.ttf)
+    
+}
+
+.head-line-title {
+    font-family: Bitter;
+}
+
+.activities {
+    font-style: italic;
+    margin-top: 100px;
+   
+    
+}
+
+.top-3-pics {
+  display: block;
+  margin-left: auto;
+  margin-right: 90px;
+  width: 100%;
+  justify-content: center;
+  border-radius: 100px
+}
+#empire-text {
+    margin-top: 50px;
+}
+
+.empire {
+    height: 50%;
+}
+
+.park {
+    /* margin-right: 90px;
+    margin-left: auto; */
+    width: 700px;
+}
+
+.bb {
+    width:600px;
+    margin: 50px 0px;
+
+}
+
+.lower-half {
+    color: black;
+}
+
+.false-joe {
+    /* display: block ;
+    width: cover;
+    margin-left: px;
+    margin-right: 10000px */
+    
+     display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  justify-content: center;
+  border-radius: 20%
+}
